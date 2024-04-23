@@ -1,0 +1,19 @@
+"editor.semanticTokenColorCustomizations": {
+    "[One Dark Pro]": {
+      "enabled": true,
+      "rules": {
+        // "parameter:python": {
+        //   "foreground": "#ABB2BF"
+        // },
+        "variable:python": {
+          "foreground": "#ABB2BF"
+        },
+        "property:python": {
+          "foreground": "#ABB2BF"
+        },
+        "variable.readonly:python": {
+          "foreground": "#e5c07b"
+        }
+      }
+    }
+  },
