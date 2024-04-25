@@ -5,6 +5,18 @@
         // "parameter:python": {
         //   "foreground": "#ABB2BF"
         // },
+        // "parameter:typescript": {
+        //   "foreground": "#ABB2BF"
+        // },
+        // "parameter:javascript": {
+        //   "foreground": "#ABB2BF"
+        // },
+        // "parameter:typescriptreact": {
+        //   "foreground": "#ABB2BF"
+        // },
+        // "parameter:javascriptreact": {
+        //   "foreground": "#ABB2BF"
+        // },
         "variable:python": {
           "foreground": "#ABB2BF"
         },
@@ -12,6 +24,42 @@
           "foreground": "#ABB2BF"
         },
         "variable.readonly:python": {
+          "foreground": "#e5c07b"
+        },
+        "variable:typescript": {
+          "foreground": "#ABB2BF"
+        },
+        "property:typescript": {
+          "foreground": "#ABB2BF"
+        },
+        "variable.readonly:typescript": {
+          "foreground": "#e5c07b"
+        },
+        "variable:typescriptreact": {
+          "foreground": "#ABB2BF"
+        },
+        "property:typescriptreact": {
+          "foreground": "#ABB2BF"
+        },
+        "variable.readonly:typescriptreact": {
+          "foreground": "#e5c07b"
+        },
+        "variable:javascript": {
+          "foreground": "#ABB2BF"
+        },
+        "property:javascript": {
+          "foreground": "#ABB2BF"
+        },
+        "variable.readonly:javascript": {
+          "foreground": "#e5c07b"
+        },
+        "variable:javascriptreact": {
+          "foreground": "#ABB2BF"
+        },
+        "property:javascriptreact": {
+          "foreground": "#ABB2BF"
+        },
+        "variable.readonly:javascriptreact": {
           "foreground": "#e5c07b"
         }
       }
